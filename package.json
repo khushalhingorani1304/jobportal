@@ -28,6 +28,7 @@
     "nodemon": "^3.1.10"
   },
   "devDependencies": {
+    "@remix-run/dev": "^2.16.5",
     "@types/bcryptjs": "^2.4.6",
     "@types/cookie-parser": "^1.4.7",
     "@types/express": "^4.17.21",
